@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a3d4e06-735d-40ca-8581-98b6c5532576" name="Default" comment="" />
+    <list default="true" id="1a3d4e06-735d-40ca-8581-98b6c5532576" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/helper/helper.js" afterPath="$PROJECT_DIR$/dist/helper/helper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/polyline.js" afterPath="$PROJECT_DIR$/dist/polyline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/staticmaps.js" afterPath="$PROJECT_DIR$/dist/staticmaps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/polyline.js" afterPath="$PROJECT_DIR$/src/polyline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/staticmaps.js" afterPath="$PROJECT_DIR$/src/staticmaps.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,14 +23,44 @@
       <file leaf-file-name="staticmaps.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/staticmaps.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="135" column="57" lean-forward="false" selection-start-line="135" selection-start-column="57" selection-end-line="135" selection-end-column="57" />
+            <state relative-caret-position="918">
+              <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
-                <marker date="1545011706307" expanded="true" signature="7399:7886" ph="..." />
-                <marker date="1545011706307" expanded="true" signature="7636:7867" ph="..." />
-                <marker date="1545011706307" expanded="false" signature="7660:7679" ph="..." />
+                <marker date="1545017818047" expanded="true" signature="7375:7862" ph="..." />
+                <marker date="1545017818047" expanded="true" signature="7612:7843" ph="..." />
+                <marker date="1545017818047" expanded="false" signature="7636:7655" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/helper/helper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="polyline.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/polyline.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="staticmaps.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/staticmaps.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="197" column="8" lean-forward="false" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -32,11 +68,34 @@
       <file leaf-file-name="polyline.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/polyline.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="306">
+                <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <folding>
+                  <marker date="1545011294937" expanded="true" signature="1387:1418" ph="{...}" />
+                  <marker date="1545011294937" expanded="true" signature="3014:3162" ph="{&quot;img&quot;: `${__dirname}/marker.png`...}" />
+                  <marker date="1545011294937" expanded="true" signature="3639:3787" ph="{&quot;color&quot;: '##0000FFBB'...}" />
+                  <marker date="1545011294937" expanded="true" signature="3653:3745" ph="[...]" />
+                  <marker date="1545011294937" expanded="true" signature="4458:4635" ph="{&quot;color&quot;: '##0000FFBB'...}" />
+                  <marker date="1545011294937" expanded="true" signature="4472:4593" ph="[...]" />
+                  <marker date="1545011294937" expanded="true" signature="7132:7241" ph="[...]" />
+                  <marker date="1545011294937" expanded="true" signature="7525:7676" ph="{&quot;img&quot;: `${__dirname}/marker.png`...}" />
+                  <marker date="1545011294937" expanded="true" signature="8076:8190" ph="{&quot;img&quot;: `${__dirname}/marker.png`...}" />
+                  <marker date="1545011294937" expanded="true" signature="8695:8827" ph="{&quot;color&quot;: '##0000FFBB'...}" />
+                  <marker date="1545011294937" expanded="true" signature="8707:8791" ph="[...]" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -51,19 +110,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="image.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/image.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
@@ -73,17 +120,45 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="helper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/helper/helper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="asyncQueue.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/helper/asyncQueue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.max()</find>
       <find>min</find>
       <find>.min()</find>
+      <find>.max()</find>
+      <find>return Math.max.apply(null, this)</find>
+      <find>Array.prototype</find>
+      <find>.prototype</find>
+      <find>StaticMax</find>
+      <find>.StaticMax(</find>
+      <find>.StaticMin(</find>
     </findStrings>
     <replaceStrings>
-      <replace>.StaticMax()</replace>
       <replace>.StaticMin()</replace>
+      <replace>.StaticMax()</replace>
+      <replace>.max(</replace>
+      <replace>.min(</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -94,7 +169,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/helper/helper.js" />
         <option value="$PROJECT_DIR$/src/staticmaps.js" />
+        <option value="$PROJECT_DIR$/dist/staticmaps.js" />
         <option value="$PROJECT_DIR$/src/polyline.js" />
+        <option value="$PROJECT_DIR$/dist/helper/helper.js" />
+        <option value="$PROJECT_DIR$/dist/polyline.js" />
       </list>
     </option>
   </component>
@@ -136,6 +214,17 @@
             <path>
               <item name="staticmaps" type="b2602c69:ProjectViewProjectNode" />
               <item name="staticmaps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staticmaps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staticmaps" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="staticmaps" type="b2602c69:ProjectViewProjectNode" />
+              <item name="staticmaps" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="staticmaps" type="b2602c69:ProjectViewProjectNode" />
@@ -187,15 +276,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545011503686</updated>
-      <workItem from="1545011504795" duration="618000" />
+      <workItem from="1545011504795" duration="4660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="618000" />
+    <option name="totallyTimeSpent" value="4660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2048" y="25" width="1920" height="990" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -223,10 +313,43 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/helper/asyncQueue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staticmaps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="20" lean-forward="true" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <marker date="1545017818047" expanded="true" signature="7375:7862" ph="..." />
+            <marker date="1545017818047" expanded="true" signature="7612:7843" ph="..." />
+            <marker date="1545017818047" expanded="false" signature="7636:7655" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -250,34 +373,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/helper/asyncQueue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/helper/helper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/staticmaps.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="135" column="57" lean-forward="false" selection-start-line="135" selection-start-column="57" selection-end-line="135" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <marker date="1545011706307" expanded="true" signature="7399:7886" ph="..." />
-            <marker date="1545011706307" expanded="true" signature="7636:7867" ph="..." />
-            <marker date="1545011706307" expanded="false" signature="7660:7679" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polyline.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -289,20 +405,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/image.js">
+    <entry file="file://$PROJECT_DIR$/src/polyline.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/dist/staticmaps.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="179">
+          <caret line="197" column="8" lean-forward="false" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/helper/helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/polyline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
           <folding />
         </state>
       </provider>

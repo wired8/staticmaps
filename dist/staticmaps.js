@@ -191,13 +191,13 @@ var StaticMaps = function () {
 
       return [extents.map(function (e) {
         return e[0];
-      }).StaticMin(), extents.map(function (e) {
+      }).min(), extents.map(function (e) {
         return e[1];
-      }).StaticMin(), extents.map(function (e) {
+      }).min(), extents.map(function (e) {
         return e[2];
-      }).StaticMax(), extents.map(function (e) {
+      }).max(), extents.map(function (e) {
         return e[3];
-      }).StaticMax()];
+      }).max()];
     }
 
     /**

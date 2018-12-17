@@ -138,10 +138,10 @@ class StaticMaps {
     }
 
     return [
-      extents.map(e => e[0]).StaticMin(),
-      extents.map(e => e[1]).StaticMin(),
-      extents.map(e => e[2]).StaticMax(),
-      extents.map(e => e[3]).StaticMax(),
+      extents.map(e => e[0]).min(),
+      extents.map(e => e[1]).min(),
+      extents.map(e => e[2]).max(),
+      extents.map(e => e[3]).max(),
     ];
   }
 

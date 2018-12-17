@@ -47,13 +47,13 @@ var Polyline = function () {
     value: function extent() {
       return [this.coords.map(function (c) {
         return c[0];
-      }).StaticMin(), this.coords.map(function (c) {
+      }).min(), this.coords.map(function (c) {
         return c[1];
-      }).StaticMin(), this.coords.map(function (c) {
+      }).min(), this.coords.map(function (c) {
         return c[0];
-      }).StaticMax(), this.coords.map(function (c) {
+      }).max(), this.coords.map(function (c) {
         return c[1];
-      }).StaticMax()];
+      }).max()];
     }
   }]);
 
