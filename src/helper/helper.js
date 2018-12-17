@@ -1,6 +1,6 @@
-Array.prototype.max = function () {
+Array.prototype.StaticMax = function () {
   return Math.max.apply(null, this);
 };
-Array.prototype.min = function () {
+Array.prototype.StaticMin = function () {
   return Math.min.apply(null, this);
 };
